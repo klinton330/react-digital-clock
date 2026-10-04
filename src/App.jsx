@@ -38,6 +38,9 @@ function App() {
         {currentTime.getHours()>=12?" PM":" AM"}
       </div>
       <div className="date">{formatDate(currentTime)}</div>
+       <p className="copyright">
+        Designed and Developed by <span>Velachi</span>
+      </p>
      </div>
     </>
   )

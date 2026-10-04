@@ -63,6 +63,18 @@ h1 {
   font-weight: 400;
   letter-spacing: 0.5px;
 }
+.copyright {
+    margin-top: 24px;
+    text-align: center;
+    color: #8395a7;
+    font-size: 12px;
+    line-height: 1.8;
+}
+
+.copyright span {
+    color: #3498db;
+    font-weight: 600;
+}
 
 /* Mobile Responsiveness */
 @media (max-width: 480px) {
